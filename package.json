@@ -1,7 +1,7 @@
 {
-    "name": "JuneX-Ultra",
-    "version": "3.0.0",
-    "description": "WhatsApp MD-Style Multi-Command Bot by Supreme",
+    "name": "Python-Tech",
+    "version": "1",
+    "description": "Trust in the Shadows",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -11,12 +11,12 @@
     },
     "keywords": [
         "whatsapp bot",
-        "June-Ultra",
+        "Python-Tech",
         "bot",
         "baileys",
         "library"
     ],
-    "author": "Agent of Dusk",
+    "author": "Python-Tech",
     "license": "MIT",
     "engines": {
         "node": ">=20.x",
