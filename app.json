@@ -1,7 +1,7 @@
 {
-  "name": "JuneX Ultra",
-  "description": "JuneX Ultra - WhatsApp MD Multi-Device Bot powered by Baileys",
-  "repository": "https://github.com/Vinpink2/June-Ultra",
+  "name": "Python-Tech",
+  "description": "Trust in the shadows,learn from the dust,no matter how hard,you'll soon emerge 1'st",
+  "repository": "https://github.com/Princeofmusic/June-Ultra",
   "logo": "",
   "keywords": [
     "whatsapp",
@@ -9,7 +9,7 @@
     "bot",
     "node",
     "md",
-    "june-ultra"
+    "Python-Tech"
   ],
   "stack": "heroku-26",
   "buildpacks": [
@@ -25,7 +25,7 @@
   },
   "env": {
     "SESSION_ID": {
-      "description": "JuneX Ultra v3.0.1 session token (JUNE-X~...) — get yours on the pairing page",
+      "description": "Python's session  (TUPA-C~...) — get yours on the pairing page",
       "required": true,
       "value": ""
     }
