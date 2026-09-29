@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.ibb.co/1YN2SCjx/65abce0780dd.jpg" alt="JUNE X" height="250">
+  <img src="https://files.catbox.moe/vzxg1l.jpg" alt="JUNE X" height="250">
 </div>
 
 ---
