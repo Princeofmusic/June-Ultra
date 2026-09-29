@@ -1,7 +1,7 @@
 <div align="center">
   <h1>PYTHON-TECH</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=45&pause=1000&color=33ff00&center=true&width=800&height=80&lines=Python Tech;Multi+Device+Whatsapp+Bot;Made+From+The+Shadows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=45&pause=1000&color=33ff00&center=true&width=800&height=80&lines=Python Tech;Multi+Device+Whatsapp+Bot;Made+from+the+shadows" alt="Typing SVG" />
   </a>
 </div>
 
