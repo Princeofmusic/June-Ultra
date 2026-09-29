@@ -23,9 +23,8 @@
 
 | Action | Link |
 |--------|------|
-| **Fork Repository** | <a href="https://github.com/Vinpink2/June-Ultra/fork"><img src="https://img.shields.io/badge/Fork Repo%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
-| **Download ZIP** | <a href="https://github.com/Vinpink2/June-Ultra/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
-
+| **Fork Repository** | <a href="https://github.com/Princeofmusic/June-Ultra/fork"><img src="https://img.shields.io/badge/Fork%20Repo-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
+| **Download ZIP** | <a href="https://github.com/Princeofmusic/June-Ultra/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20ZIP-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
 </div>
 
 ---
@@ -66,9 +65,8 @@
 
 | Platform | Link |
 |----------|------|
-| **WhatsApp Group** | <a href="https://whatsapp.com/channel/0029VbBzXBN2kNFoxm7LiG3Q"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **YouTube** | <a href="https://www.youtube.com/@Suprem_e_Lord"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto"/></a> |
-| **Telegram** | <a href="t.me/supremLord"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white&logoSize=auto"/></a> |
+| **WhatsApp Channel** | <a href="https://whatsapp.com/channel/0029VbCUnUm5EjxxPelB173p"><img src="https://img.shields.io/badge/WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/></a> |
+| **WhatsApp Group** | <a href="https://chat.whatsapp.com/JrOyt0mCqzG2g6Uy8nvcxW?s=cl&p=a&mlu=4"><img src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black"/></a> |
 
 </div>
 
